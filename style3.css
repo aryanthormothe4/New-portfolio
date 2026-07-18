@@ -13,15 +13,37 @@ body{
     overflow-y: auto;
     width: 80%;
 }
-.certificates{
+.certifications{
+    margin-top: 60px;
     text-align: center;
+    width: 200px;
+    margin: 0 auto;
+}
+#html-css{
+    background-color: white;
+}
+#javascript{
+    background-color:white;
+}
+#data-visualization{
+    background-color: white;
+}
+#html-css:hover{
+    background-color: #cf0f12;
+}
+#javascript:hover{
+    background-color: #c95502a9;
+}
+#data-visualization:hover{
+    background-color: #0f0bf4c9;
+
 }
 .home-button {
     height: 50px;
     width: 76px;
     text-align: center;
     margin: 0 auto;
-   margin-top: 20px;
+   margin-top: 250px;
     padding: 10px 10px 10px 10px;
     height: 30px;
     background-color: #0c0c02;
